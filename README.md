@@ -2,6 +2,7 @@
 Full GitOps Pipeline on AWS with Terraform, Monitoring, Logging, and Secrets Management
 
 # Terraform
+```
 terraform/
 │
 ├── provider.tf
@@ -18,3 +19,4 @@ terraform/
     └── dev/
         ├── main.tf
         └── terraform.tfvars
+```
